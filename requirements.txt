@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+asyncpg
+redis
+pydantic
+#pydantic==1.10.12
+psycopg2-binary
+scikit-learn
+pandas
+matplotlib
